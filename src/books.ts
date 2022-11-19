@@ -1,7 +1,7 @@
 const book = [
   {
     id: 1,
-    title: "Twisted Love",
+    title: "ggggg Love",
     authnr: "Amilia",
     img: "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/3494/9780349434278.jpg",
   },
